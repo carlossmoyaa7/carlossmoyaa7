@@ -2,17 +2,16 @@
 
 <h2>🧑🏻‍💻Cybersecurity Projects:</h2>
 
-<!--
-**carlossmoyaa7/carlossmoyaa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥️ Featured IT Projects
 
-Here are some ideas to get you started:
+#### [Windows 11 Troubleshooting Lab](https://github.com/YOUR-USERNAME/windows-11-troubleshooting-lab)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hands-on Windows 11 IT support project demonstrating network diagnostics, system troubleshooting, performance monitoring, and Windows system file repair.
+
+**Skills Demonstrated:**
+- **Networking:** TCP/IP, DHCP, DNS, `ipconfig`, `ping`, `nslookup`
+- **Windows Administration:** Event Viewer, Task Manager, Command Prompt
+- **System Repair:** SFC scans, file integrity repair, and verification
+- **Documentation:** Six troubleshooting case studies with screenshots and results
+
+**Highlight:** Successfully identified and repaired Windows system file integrity violations using `sfc /scannow`, then verified the repair with a clean follow-up scan.
