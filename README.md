@@ -4,7 +4,7 @@
 
 ### 🖥️ Featured IT Projects
 
-#### [Windows 11 Troubleshooting Lab](https://github.com/YOUR-USERNAME/windows-11-troubleshooting-lab)
+#### [Windows 11 Troubleshooting Lab](https://github.com/carlossmoyaa7/windows-11-troubleshooting-lab)
 
 Hands-on Windows 11 IT support project demonstrating network diagnostics, system troubleshooting, performance monitoring, and Windows system file repair.
 
