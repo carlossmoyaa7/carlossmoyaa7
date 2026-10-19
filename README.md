@@ -1,6 +1,6 @@
 <h1>Hi, I'm Carlos Moya</h1>
 
-<h2>🧑🏻‍💻Cybersecurity Projects:</h2>
+<h2>💻 IT Support & Cybersecurity Projects</h2>
 
 ### 🖥️ Featured IT Projects
 
