@@ -1,8 +1,6 @@
 <h1>Hi, I'm Carlos Moya</h1>
 
-<h2>💻 IT Support & Cybersecurity Projects</h2>
-
-### 🖥️ Featured IT Projects
+<h2> 🖥️ Featured IT Projects</h2>
 
 #### [Windows 11 Troubleshooting Lab](https://github.com/carlossmoyaa7/windows-11-troubleshooting-lab)
 
