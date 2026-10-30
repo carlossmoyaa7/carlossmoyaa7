@@ -14,7 +14,7 @@ Hands-on Windows 11 IT support project demonstrating network diagnostics, system
 
 **Highlight:** Successfully identified and repaired Windows system file integrity violations using `sfc /scannow`, then verified the repair with a clean follow-up scan.
 
-### [Active Directory Home Lab](YOUR-REPOSITORY-LINK)
+#### [Active Directory Home Lab](YOUR-REPOSITORY-LINK)
 
 Hands-on Windows Server 2025 project demonstrating Active Directory administration, Group Policy configuration, domain integration, and departmental file-sharing security.
 
