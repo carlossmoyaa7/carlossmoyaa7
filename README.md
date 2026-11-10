@@ -28,3 +28,16 @@ Hands-on Windows Server 2025 project demonstrating Active Directory administrati
 - **Virtualization:** Windows Server 2025 and Windows 11 using VirtualBox
 
 **Highlight:** Successfully configured a Windows domain with four departments and implemented security group-based file permissions, verifying that employees could modify authorized departmental files while unauthorized write attempts were denied.
+
+#### [TechNova IT Help Desk Lab](https://github.com/carlossmoyaa7/TechNova-IT-Help-Desk-Lab)
+
+Hands-on enterprise IT support simulation demonstrating Windows Server 2025 administration, Active Directory management, Windows 11 troubleshooting, DNS configuration, IIS web services, and IT incident management using Jira Service Management.
+
+**Skills Demonstrated:**
+- **Active Directory:** User account management, organizational units, security groups, and password resets
+- **Windows Server Administration:** Windows Server 2025, DNS configuration, and IIS web server deployment
+- **Desktop Support:** Windows 11 domain authentication, network connectivity, and troubleshooting
+- **IT Service Management:** Jira ticket creation, incident investigation, troubleshooting documentation, and resolution
+- **Virtualization:** Windows Server and Windows 11 virtual machines using VirtualBox
+
+**Highlight:** Built a simulated corporate IT environment and documented three resolved help desk incidents using Jira Service Management.
