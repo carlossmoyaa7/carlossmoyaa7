@@ -29,7 +29,7 @@ Hands-on Windows Server 2025 project demonstrating Active Directory administrati
 
 **Highlight:** Successfully configured a Windows domain with four departments and implemented security group-based file permissions, verifying that employees could modify authorized departmental files while unauthorized write attempts were denied.
 
-#### [TechNova IT Help Desk Lab](https://github.com/carlossmoyaa7/TechNova-IT-Help-Desk-Lab)
+#### [IT Help Desk Lab](https://github.com/carlossmoyaa7/TechNova-IT-Help-Desk-Lab)
 
 Hands-on enterprise IT support simulation demonstrating Windows Server 2025 administration, Active Directory management, Windows 11 troubleshooting, DNS configuration, IIS web services, and IT incident management using Jira Service Management.
 
